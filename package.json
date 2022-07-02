@@ -12,7 +12,8 @@
     "react-native-web": "0.17.1",
     "react-router-dom": "^6.3.0",
     "react-scripts": "4.0.0",
-    "react-svg": "14.0.3"
+    "react-svg": "14.0.3",
+    "zustand": "^4.0.0-rc.1"
   },
   "devDependencies": {
     "@types/react": "17.0.0",
